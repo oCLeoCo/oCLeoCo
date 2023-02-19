@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @oCLeoCo
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning GameDev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 oCLeoCo/oCLeoCo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
